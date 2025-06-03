@@ -1,3 +1,8 @@
+# 示例页面
+<img width="823" alt="截屏2025-06-03 15 18 23" src="https://github.com/user-attachments/assets/75df2c43-d9f4-4c0c-8f8e-d349f5967de4" />
+<img width="864" alt="截屏2025-06-03 15 19 14" src="https://github.com/user-attachments/assets/9a7fff58-893a-487c-867b-390af1f62b09" />
+<img width="800" alt="截屏2025-06-03 15 15 14" src="https://github.com/user-attachments/assets/5900734f-49cf-4c26-a630-cdab51fa2d7f" />
+
 # Wallet Demo
 
 A React-based cryptocurrency wallet demo application that demonstrates basic wallet functionality using ethers.js and bitcoinjs-lib.
